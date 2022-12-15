@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @onayeri
-- I’m interested in Data Analytics
-- 🌱 I’m currently learning Pyhton & SQL
+
 
 
 
